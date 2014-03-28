@@ -1,0 +1,6 @@
+SHOP++
+Copyright 2005-2013 shopxx.net. All rights reserved.
+Support: http://www.groupbuy.net
+License: http://www.groupbuy.net/license
+Revision: 1.0 groupbuy
+Date: 2014-01
